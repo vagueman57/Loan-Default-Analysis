@@ -8,7 +8,7 @@ An end-to-end **Loan Default Analysis Dashboard** built using Power BI and Micro
 
 Analyzes loan distribution and default patterns across different applicant segments.
 
-![Loan Default Overview](Screenshot 2026-10-18 000745.png)
+![Loan Default Overview](<Screenshot 2026-10-18 000745.png>)
 
 - Loan Amount by Purpose
 - Average Income by Employment Type
@@ -20,7 +20,7 @@ Analyzes loan distribution and default patterns across different applicant segme
 
 Explores how credit scores, income, education, and applicant characteristics relate to borrowing behavior.
 
-![Applicant Demographics and Financial Profile](Screenshot 2026-10-18 000808.png)
+![Applicant Demographics and Financial Profile](<Screenshot 2026-10-18 000808.png>)
 
 - Median Income and Loan Amount by Credit Score Bins
 - Average Loan Amount for High Credit Score Applicants
@@ -32,7 +32,7 @@ Explores how credit scores, income, education, and applicant characteristics rel
 
 Tracks year-over-year changes and examines the composition of the loan portfolio.
 
-![Financial Trends and Loan Portfolio Analysis](Screenshot 2026-10-18 000824.png)
+![Financial Trends and Loan Portfolio Analysis](<Screenshot 2026-10-18 000824.png>)
 
 - Year-over-Year (YoY) Loan Amount Change
 - Year-over-Year (YoY) Default Loan Change
